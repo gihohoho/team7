@@ -7,7 +7,7 @@ MBTI : INTJ
 
 ## 조원1
 이름 : 김민재
-MBTI : 
+MBTI : INFJ
 취미 : 
 
 ## 조원2
